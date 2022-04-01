@@ -8,3 +8,5 @@ added one singular command.
 Geyser3 allows users to *become* the Geyser. This technology has never been available to the public up until now. 
 
 # PLEASE USE WITH CAUTION, THERE IS A VERY HIGH CHANCE YOU WILL NEVER WANT TO PUT GEYSER3 DOWN UPON USING.
+
+NOW SUPPORTS MINECRAFT: TOASTER EDITION
