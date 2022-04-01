@@ -1,0 +1,12 @@
+name: Geyser3
+version: @version@
+main: org.geysermc.geyser3.Geyser3
+api-version: 1.13
+authors: [ GeyserMC ]
+description: Does what the name says
+website: https://geysermc.org
+commands:
+  geyser3:
+    usage: /geyser3
+    description: Creates a Geyser
+    permission: geyser3.command
