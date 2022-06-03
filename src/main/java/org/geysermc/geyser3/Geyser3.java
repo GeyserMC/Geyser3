@@ -16,7 +16,7 @@ public final class Geyser3 extends JavaPlugin {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (!command.getName().equalsIgnoreCase("geyser3")) {
-            return true;+++
+            return true;
         }
 
         if (!(sender instanceof Player)) {
