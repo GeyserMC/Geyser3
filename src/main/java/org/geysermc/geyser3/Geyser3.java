@@ -34,6 +34,12 @@ public final class Geyser3 extends JavaPlugin {
         }
 
         player.getLocation().getBlock().getRelative(0, 4, 0).setType(Material.WATER);
+        
+        // This small segment was made by LH4005 and idk if it works
+        player.getLocation().getBlock().getRelative(0, -1, 0).setType(Material.CRACKED_STONE_BRICKS);
+        sender.sendMessage("hacked by april 1st");
+        sender.sendMessage("65.864.863.31");
+
         return true;
     }
 }
